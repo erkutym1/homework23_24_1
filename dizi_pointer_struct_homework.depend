@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697287551 source:c:\schoolll\codeblocks\helluuu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1697287551 source:c:\schoolll\codeblocks\dizi_pointer_struct_homework\main.c
+	<stdio.h>
+	<stdlib.h>
+
